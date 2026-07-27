@@ -1,10 +1,10 @@
-# Build Your VPC and Launch a Web Server (AWS) 
+># Build Your VPC and Launch a Web Server (AWS) 
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**:
+* **Register Number**:
+* **Date of Submission**:
 
 ---
 
@@ -85,13 +85,23 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+### Step-1:
+I started the lab and logged into the Amazon Web Services Management Console in the N. Virginia (us-east-1) region.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+### Step-2:
+I created a custom VPC using Amazon VPC, configured public and private subnets, and enabled an Internet Gateway and NAT Gateway to manage internet connectivity.
+
+### Step-3:
+I added additional public and private subnets in a second Availability Zone and updated the route tables to ensure proper routing for both internet-facing and private traffic.
+
+### Step-4:
+I created a Security Group named Web Security Group and configured it to allow HTTP (port 80) access from anywhere to enable web traffic.
+
+### Step-5:
+I launched an EC2 instance using Amazon EC2 in the public subnet, enabled auto-assign public IP, attached the security group, and selected the required key pair.
+
+### Step-6:
+I configured a user data script to automatically install Apache and deploy a web application, then verified the web server by accessing the instance’s public DNS in a browser.
 
 ---
 
@@ -99,19 +109,27 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+
+<img width="1266" height="661" alt="image" src="https://github.com/user-attachments/assets/756e9304-5e0e-401d-9efd-5ab0317538d0" />
+
+![2 t12](https://github.com/user-attachments/assets/eed36bfd-8a6a-4361-9ef1-acbba213736d)
+
+
+<img width="1262" height="662" alt="image" src="https://github.com/user-attachments/assets/ef18695a-539b-47c0-aa9d-480f6d5ece09" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+![2 t4](https://github.com/user-attachments/assets/67cfbd76-11fa-4770-9b60-5cb224896aba)
+
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+![2 t4finel](https://github.com/user-attachments/assets/91cf848f-0817-4bb0-8946-32e166292e26)
+
 
 ---
 
