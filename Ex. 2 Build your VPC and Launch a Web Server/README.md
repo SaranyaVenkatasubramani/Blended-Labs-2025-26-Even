@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**:
-* **Register Number**:
-* **Date of Submission**:
+* **Name**: SARANYA AV
+* **Register Number**: 212224040297
+* **Date of Submission**: 17-08-2026
 
 ---
 
@@ -110,25 +110,26 @@ I configured a user data script to automatically install Apache and deploy a web
 ### Screenshot 1: VPC and Subnet Details
 
 
-<img width="1266" height="661" alt="image" src="https://github.com/user-attachments/assets/756e9304-5e0e-401d-9efd-5ab0317538d0" />
+<img width="945" height="473" alt="image" src="https://github.com/user-attachments/assets/a4547af8-96f7-4cf4-8909-fb9bf18a16db" />
 
-![2 t12](https://github.com/user-attachments/assets/eed36bfd-8a6a-4361-9ef1-acbba213736d)
+<img width="945" height="454" alt="image" src="https://github.com/user-attachments/assets/fda79475-71c9-46dd-a8e7-1d99bbe60aef" />
 
+<img width="946" height="484" alt="image" src="https://github.com/user-attachments/assets/46323337-0f40-404b-8429-22bdc758e804" />
 
-<img width="1262" height="662" alt="image" src="https://github.com/user-attachments/assets/ef18695a-539b-47c0-aa9d-480f6d5ece09" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-![2 t4](https://github.com/user-attachments/assets/67cfbd76-11fa-4770-9b60-5cb224896aba)
+<img width="945" height="441" alt="image" src="https://github.com/user-attachments/assets/882d2a8d-0156-4798-ab6f-29bda0a6f297" />
+
 
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-![2 t4finel](https://github.com/user-attachments/assets/91cf848f-0817-4bb0-8946-32e166292e26)
+<img width="944" height="539" alt="image" src="https://github.com/user-attachments/assets/64ce4f57-1841-4939-a248-9ac1668c48c2" />
 
 
 ---
